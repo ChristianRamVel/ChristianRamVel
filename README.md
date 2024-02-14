@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Christian</h1>
+kit<h1 align="center">Hi 👋, I'm Christian</h1>
 <h3 align="center">I am a 28 years old programmer, passionate, striving every day to learn, improve and enjoy this world, I study multiplatform application development.</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=christianramvel" alt="christianramvel" /></a> </p>
 
 - 📫 How to reach me **ramosvelascochristian@gmail.com**
 
@@ -14,6 +12,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=christianramvel&show_icons=true&locale=en&layout=compact" alt="christianramvel" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=christianramvel&show_icons=true&locale=en" alt="christianramvel" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=christianramvel&" alt="christianramvel" /></p>
