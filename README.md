@@ -1,5 +1,5 @@
 kit<h1 align="center">Hi 👋, I'm Christian</h1>
-<h3 align="center">I am a 28 years old programmer, passionate, striving every day to learn, improve and enjoy this world, I study multiplatform application development.</h3>
+<h3 align="center">I am a 28 years old programmer, passionate, striving every day to learn, improve and enjoy this world, Full Stack developer using pl\sql databases with Spring boot and Angular frameworks.</h3>
 
 - 📫 How to reach me **ramosvelascochristian@gmail.com**
 
